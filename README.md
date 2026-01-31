@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalana Ashen</h1>
-<h3 align="center">A passionate Python developer from Sri-Lanka</h3>
+<h3 align="center">A passionate Python,Web developer from Sri-Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalanaashen&label=Profile%20views&color=0e75b6&style=flat" alt="kalanaashen" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python,C**
 
-- 📫 How to reach me **northernwolf14742@gmail.com**
+- 📫 How to reach me **kalana.ashen.wijesingha@gmail.com**
 
 - ⚡ Fun fact **I dont like invented technology after Charles Babbage's era**
 
